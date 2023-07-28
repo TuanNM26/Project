@@ -1,0 +1,14 @@
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\bin\Debug\net6.0\CafeLibrary.deps.json
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\bin\Debug\net6.0\CafeLibrary.runtimeconfig.json
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\bin\Debug\net6.0\CafeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\bin\Debug\net6.0\CafeLibrary.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\refint\CafeLibrary.dll
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\CafeLibrary.genruntimeconfig.cache
+C:\Users\Admin\Dropbox\PC\Desktop\prn211\project\CafeManagement\CafeLibrary\obj\Debug\net6.0\ref\CafeLibrary.dll
