@@ -1,0 +1,9 @@
+.t-dropdown-item:first-child{
+    padding-bottom: 8px;
+    padding-left: 12px;
+}
+
+.t-dropdown-item:last-child{
+    padding-top: 8px;
+    padding-left: 12px;
+}
