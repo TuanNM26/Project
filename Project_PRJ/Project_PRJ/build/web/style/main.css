@@ -1,0 +1,44 @@
+@import url("./style.css");
+@import url("./component/form.css");
+@import url("./component/button.css");
+@import url("./component/menu.css");
+@import url("./component/dropdown.css");
+@import url("./layout/content.css");
+@import url("./layout/header.css");
+@import url("./component/loading.css");
+@import url("./layout/navbar.css");
+@import url("./component/toast.css");
+@import url("./component/input.css");
+
+
+
+
+body {
+    font-family: Noto sans, Noto-sans-italic, Noto-sans-regular,
+      Noto-sans-semibold, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 13px !important;
+  }
+
+  @font-face {
+    font-family: Noto sans;
+    src: url("./content/fonts/notosans-regular.2cb88a13.woff2");
+  }
+  
+  @font-face {
+    font-family: Noto-sans-italic;
+    src: url("./content/fonts/notosans-italic.1c1aaac9.woff2");
+  }
+  
+  @font-face {
+    font-family: Noto-sans-regular;
+    src: url("./content/fonts/notosans-bold.3ede5aff.woff2");
+  }
+  
+  @font-face {
+    font-family: Noto-sans-semibold;
+    src: url("./content/fonts/notosans-semibold.df3e6dc4.woff2");
+  }
+  
