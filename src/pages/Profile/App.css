@@ -1,0 +1,31 @@
+/* .form-container .ant-form-item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .form-container .ant-form-item-label {
+    width: auto;
+    text-align: left;
+    margin-right: 16px;
+  }
+
+  .form h1{
+    display: flex;
+    justify-content: flex-start;
+  }
+  .avatar-uploader .ant-upload-list-picture-card .ant-upload-list-item-thumbnail {
+    border-radius: 50%;
+  }
+
+  .circle-uploader .ant-upload-list-picture-card .ant-upload-list-item-thumbnail {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .circle-uploader .ant-upload-list-picture-card .ant-upload-list-item-thumbnail img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  } */

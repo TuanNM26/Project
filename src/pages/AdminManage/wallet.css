@@ -1,0 +1,46 @@
+.wallet-table {
+    width: 90%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+
+  h1{
+    text-align: center;
+  }
+  
+  .user-cell {
+    width: 40%;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .amount-cell {
+    width: 30%;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .action-cell {
+    width: 30%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .wallet-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .wallet-table button {
+    background-color:cornflowerblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 8px 20px;
+    margin: 5px;
+    font-size: 13px;
+  }
+  

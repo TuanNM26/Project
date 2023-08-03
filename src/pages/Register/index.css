@@ -1,0 +1,14 @@
+.login-form {
+  width: 100%;
+  /* max-width: 300px; */
+}
+.login-form-forgot {
+  text-align: center;
+}
+.login-form-button {
+  width: 100%;
+}
+.form-card {
+  width: 400px;
+  text-align: center;
+}

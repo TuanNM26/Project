@@ -1,0 +1,178 @@
+/* Thiết lập kích thước toàn màn hình cho các phần tử */
+/* html, body {
+    height: 100%;
+    margin: 0;
+  } */
+  
+  .quiz-page {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .quiz-content {
+    flex: 1;
+    display: flex;
+    align-items: stretch; /* Giãn các phần tử con để chiều cao bằng nhau */
+  }
+  
+  .quiz-header {
+    background-color:  #fff;
+    padding: 20px;
+    border-bottom: 1px solid #ccc; 
+    text-align: center; /* Căn giữa nội dung trong header */
+  }
+  
+  .question-list {
+    width: 200px;
+    background-color: #fff;
+    /* padding: 20px; */
+    text-align: center;
+    border-right: 1px solid #ccc;
+    
+  }
+
+  .question-list-right{
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: center; */
+    padding: 0px 5px;
+    
+  }
+  
+  .question-section {
+    flex: 1;
+    padding: 0px 20px;
+    background-color: #fff;
+    border-right: 1px solid #ccc;
+    /* border: 1px solid #ccc;
+    border-radius: 5px;  */
+  }
+  
+  .quiz-sidebar {
+    width: 200px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    align-items: center; 
+    /* padding: 5px; */
+  }
+  
+  /* Thiết lập giao diện câu hỏi và các nút điều hướng */
+  h2 {
+    margin-bottom: 10px;
+    font-size: 20px; /* Giảm kích thước chữ tiêu đề câu hỏi */
+    color: #333; /* Màu chữ đen */
+  }
+  
+  p {
+    margin-bottom: 20px;
+    line-height: 1.5; /* Điều chỉnh dòng dẫn để đọc dễ dàng hơn */
+    color: #555; /* Màu chữ xám đậm */
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold; /* In đậm tên các lựa chọn */
+    color: #333; /* Màu chữ đen */
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* Tăng khoảng cách giữa nút và nội dung câu hỏi */
+  }
+  
+  .quiz-sidebar button {
+    background-color: cornflowerblue;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+  
+  
+  
+  
+  /* Thiết lập kiểu chữ và căn lề */
+  .quiz-title {
+    font-size: 24px;
+    text-align: center;
+    margin: 0; /* Xóa khoảng cách trên và dưới tiêu đề */
+    color: #333; /* Màu chữ đen */
+  }
+  
+  .question-list ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  
+  
+  .button-container button {
+    background-color: cornflowerblue; /* Màu nút xanh lá cây */
+    color: #fff; /* Màu chữ trắng cho nút */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px; /* Bo tròn các góc nút */
+    cursor: pointer;
+  }
+  
+  .button-container button:disabled {
+    background-color: #ccc; /* Màu nền xám cho nút bị vô hiệu hóa */
+    cursor: not-allowed;
+  }
+
+  .question-number {
+    width: 21px;
+    text-align: center;
+    /* CSS cho ô câu hỏi */
+    /* padding: 10px; */
+    /* margin-bottom: 5px;
+    margin-top: 5px; */
+    margin: 5px 2px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .question-number.active {
+    /* CSS cho ô câu hỏi được chọn */
+    border-color: #1a1919;
+    background-color: rgb(227, 103, 62);
+  }
+  .quiz-sidebar .question-number.answered {
+    background-color: rgb(17, 248, 0);
+  }
+  
+  .quiz-sidebar .question-number.answered.active {
+    background-color: rgb(227, 103, 62);
+  }
+  
+  .question-list-title, .timer-title, .timer-count {
+    text-align: center;
+  }
+  
+  .timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  
